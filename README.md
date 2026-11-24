@@ -64,4 +64,5 @@ Highest Sale: 1700
 Lowest Sale: 800
 ```
 ## Result
+
 The program successfully analyzes quarterly product sales using 2D NumPy arrays and Python statistical aggregation functions.
